@@ -13,7 +13,7 @@ Download&Install:
 
 ## Setup
 
-- Start up IntelliJ
+- Start up IntelliJ (do you know for sure you have git installed?)
 - Choose Check out from Version Control -> Git
 - Fill in URL "https://github.com/dlammerse/NSAndroid.git"
 - press Test
