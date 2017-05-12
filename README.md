@@ -48,7 +48,7 @@ Download&Install:
   
 ## Further setup
  - Add ANDROID_HOME to your system variables with value C:\Users\\\<username>\\AppData\Local\Android\Sdk
- - Open command prompt and run: npm install -g appium
+ - Open command prompt and run: `npm install -g appium`
 
 
 
