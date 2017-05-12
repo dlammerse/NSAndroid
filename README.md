@@ -28,15 +28,12 @@ Download&Install:
 
 
 ## Appium setup
-
-{
-  "automationName": "Appium",
-  "platformName": "Android",
-  "app": "D:\\Users\\dlammers\\Documents\\Cap\\MobileTestAutomation\\NS Reisplanner Xtra_v4.6.16_apkpure.com.apk",
-  "deviceName": "Android Emulator",
-  "platformVersion": "5.1",
-  "appWaitActivity": "nl.ns.android.activity.welcome.WelcomActivity"
-}
+  - automationName : Appium
+  - platformName :  Android
+  - app : <User dir>\\NS Reisplanner Xtra_v4.6.16_apkpure.com.apk
+  - deviceName : Android Emulator
+  - platformVersion : 5.1
+  - appWaitActivity : nl.ns.android.activity.welcome.WelcomActivity
 
 
 
