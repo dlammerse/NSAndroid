@@ -27,8 +27,7 @@ Download&Install:
 
 ## Appium setup
 - in Adanced tab check 'Allow Seesion Override'
-- click Start Server
-
+- click Start Server<br /><br />
 - Click start new session and fill in:
   - automationName :text: Appium
   - platformName :text:  Android
@@ -47,7 +46,7 @@ Download&Install:
  - Choose tab SDK tools
  - Make sure Android SDK Platform-Tools are installed
   
- ## Further setup
+## Further setup
  - Add ANDROID_HOME to your system variables with value C:\Users\\\<username>\\AppData\Local\Android\Sdk
  - Open command prompt and run: npm install -g appium
 
